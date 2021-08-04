@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="This description describes this page.">
+        <meta name="author" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Home :: Wire Frame demo site</title>
+        <link rel="stylesheet" href="css/style.css">
+		<style>
+		h1 {text-align: center;}
+		h2 {text-align: center;}
+		
+		</style>
+    </head>
+    <body>
+        <header>
+            <div class="logo"> 
+			
+		<br></br>
+                <div class="tag-line"><a href="index.html"><img src="images/newlogo.png" alt="newlogo.png"></a></div>
+				<div class="tag-line">
+				<p class="tag-line">The best Mexican restaurant in town!</p>
+				</div>
+				
+				
+				
+				
+	
+				
+				
+				
+            </div>
+			<br></br>
+			
+            <nav> <!-- navigation here  -->
+                <ul>
+				
+        <video autoplay muted loop id="next-video">
+				<source src="images/pink.mp4" type="video/mp4">
+		</video>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="menu.html">Menu</a></li>
+                    <li><a href="contact.html">Contact</a></li>	
+				
+                </ul>
+            </nav>
+			<br></br>
+		</header>
+       
+		
+			
+					
+			<div>			
+				<p><u><h1 style="color:black;">MENU</h1></p></u>
+				<br></br>
+				<p><u><h1 style="color:black;">Sides + Extras</h1></p></u><
+				<br></br>
+				
+				<p><h1 style="color:yellow;">CORN CHIPS AND SALSA OR GUAC $6</p></h1><
+				<p><h2 style="color:white;">Corn chips and our corn salsa or guacamole.</p></h2>
+				<br></br>
+				<p><h1 style="color:yellow;">CHEESE AND JALAPENO BITES $8.50</p></h1>
+				<p><h2 style="color:white;">Tasty jalapenos mixed with cheese and served with chipotle aioli.</p></h2>
+				<br></br>
+				<p><h1 style="color:yellow;">LEMON & PEPPER SQUID $10</p></h1>
+				<p><h2 style="color:white;">Tender squid covered with salt and pepper, served with chipotle aioli.</p></h2>
+				<br></br>
+				<p><h1 style="color:yellow;">CASSAVA & SOUR CREAM $7</p></h1>
+				<p><h2 style="color:white;">Crunchy cassava topped with sour cream.</p></h2>
+				<br></br>
+				
+				<p><h1 style="color:yellow;">SEASONED POTATO WEDGES (Small or Regular)$5 / $8.50
+				<p><h2 style="color:white;">Served with sour cream and your choice of chipotle aioli or tomato ketchup or sweet chilli sauce.
+				<br></br>
+				<p><h1 style="color:yellow;">EXTRA SAUCE $2
+				<p><h2 style="color:white;">Chipotle aioli   •   Guacamole sauce   •   Sweet chili sauce   •   Corn Salsa
+				<br></br>
+				<p><u><h1 style="color:black;">MAINS</h1></p></u>
+				<br></br>
+				<p><h1 style="color:yellow;"> STEP 1
+				<br></br>
+				<p><u><h1 style="color:black;">CHOOSE YOUR MAIN</h1></p></u>
+				<br></br>
+				<p><h1 style="color:yellow;">BURRITO $14.50
+				<p><h2 style="color:white;">Flour tortilla filled with brown rice, beans, cheese, sour cream, green salad, guacamole sauce, corn salsa.
+				<br></br>
+				<p><h1 style="color:yellow;">BURRITO IN A BOWL (GF)$14.50
+				<p><h2 style="color:white;">All the elements of the burrito, but without the tortilla.
+				<br></br>
+				<p><h1 style="color:yellow;">SOFT TACOS 1 X $6.50   2 X $11
+				<p><h2 style="color:white;">Flour tortilla filled with beans, cheese, sour cream, green salad, guacamole sauce, corn salsa.
+				<br></br>
+				<p><h1 style="color:yellow;">QUESADILLA $14.50
+				<p><h2 style="color:white;">Melted cheese with the filling of your choice.
+				<br></br>
+				<p><h1 style="color:yellow;">NACHOS (GF)$15
+				<p><h2 style="color:white;">Corn chips covered with beans, nacho cheese sauce, green salad, guacamole sauce, corn salsa.
+				<br></br>
+				<p><h1 style="color:yellow;">LOADED POTATO WEDGES (GF)$15
+				<p><h2 style="color:white;">A Kiwi favorite, just like nachos but a layer of seasoned potato wedges instead.
+				<br></br>
+				<p><h1 style="color:yellow;"> STEP 2
+				<br></br>
+				<p><u><h1 style="color:black;">CHOOSE YOUR FILLING</h1></p></u>
+				<br></br>
+				<p><h1 style="color:yellow;">• CHIPOTLE CHICKEN
+				<p><h1 style="color:yellow;">• SLOW COOKED BEEF
+				<p><h1 style="color:yellow;">• SLOW COOKED PULLED PORK
+				<p><h1 style="color:yellow;">• FRESH VEGGIES COOKED TO ORDER
+				<br></br>
+				<p><h1 style="color:yellow;"> STEP 3
+				<br></br>
+				<p><u><h1 style="color:black;">CHOOSE YOUR SPICINESS</h1></p></u>
+				<br></br>
+				<p><h1 style="color:yellow;"> MILD <p><h2 style="color:white;">(Home made tomato based)
+				<p><h1 style="color:yellow;"> MEDIUM <p><h2 style="color:white;">(Salsa verde – Green tomattillos Sauce)
+				<p><h1 style="color:yellow;"> HOT <p><h2 style="color:white;">(El Diablo sauce – Hot spices blend)
+
+			</div>          
+       
+        <footer>
+            <div class="footer-wrap">
+                <div>El Rancho</div>
+                <div>0225236280</div>
+                <div>www.riverside.nz</div>
+                <div>info@elranchoriverside.co.nz</div>
+            </div>
+        </footer>
+    </body>
+</html>
