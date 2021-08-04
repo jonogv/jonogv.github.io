@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="This description describes this page.">
+        <meta name="author" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Home :: Wire Frame demo site</title>
+        <link rel="stylesheet" href="css/style.css">
+		<style>
+			h1 {text-align: center;}
+			h2 {text-align: center;}
+			
+		</style>
+	
+	</head>
+        <body>
+        <header>
+            <div class="logo"> 
+			
+		<br></br>
+                <div class="tag-line"><a href="index.html"><img src="images/newlogo.png" alt="newlogo.png"></a></div>
+				<div class="tag-line">
+				<p class="tag-line">The best Mexican restaurant in town!</p>
+				</div>
+				
+				
+				
+				
+	
+				
+				
+				
+            </div>
+			<br></br>
+			
+            <nav> <!-- navigation here  -->
+                <ul>
+			
+        <video autoplay muted loop id="next-video">
+				<source src="images/pink.mp4" type="video/mp4">
+		</video>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="menu.html">Menu</a></li>
+                    <li><a href="contact.html">Contact</a></li>	
+				
+                </ul>
+            </nav>
+			<br></br>
+		</header>
+        <div class="banner">
+            
+        </div>
+
+		<h1 style="color:yellow;">About</h1>
+		<br></br>
+		<h1 style="color:white;">El Rancho is a special place where you can relax and enjoy your food time. Take your meal and sit out side next to the river and absorb the sunshine or you can decide to eat in sitting downstairs or upstairs while absorbing the vibrant atmosphere creating memories with family and friends.</h2>
+		<br></br>
+		
+		<h1 style="color:white;">El Rancho was founded in 2013 by Rafael Marquez and Francisca Pérez,they come from a small town in Mexico called Taxco (Guerrero),where the city goes wild for their football and food. </h2>
+		<br></br>
+		<h1 style="color:white;">We bring our enthusiasm and passion to New Zealand.We are excited! for this opportunity to be able make our amazing food in the unique riverside market </h2>
+		
+		
+		<img src="images/people.jpg" class="center">
+		
+		
+
+        <footer>
+            <div class="footer-wrap">
+                <div>El Rancho</div>
+                <div>0225236280</div>
+                <div>www.riverside.nz</div>
+                <div>info@elranchoriverside.co.nz</div>
+            </div>
+        </footer>
+            
+       
+    </body>
+</html>
