@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="This description describes this page.">
+        <meta name="author" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Home :: Wire Frame demo site</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+        <body>
+        <header>
+            <div class="logo"> 
+			
+		<br></br>
+                <div class="tag-line"><a href="index.html"><img src="images/newlogo.png" alt="newlogo.png"></a></div>
+				<div class="tag-line">
+				<p class="tag-line">The best Mexican restaurant in town!</p>
+				</div>
+				
+				
+				
+				
+	
+				
+				
+				
+            </div>
+			<br></br>
+			
+            <nav> <!-- navigation here  -->
+                <ul>
+					</style>
+    </head>
+    <body>
+        <video autoplay muted loop id="next-video">
+				
+		</video>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="menu.html">Menu</a></li>
+                    <li><a href="contact.html">Contact</a></li>	
+				
+                </ul>
+            </nav>
+			<br></br>
+		</header>
+
+		
+		<section>
+       
+        
+            
+			<div>
+				<h1 style="color:yellow;">Contact</h1>
+				<br></br>
+				  <h2 style="color:yellow;">Opening Times:</h2>
+				  
+				  <h2 style="color:white;">Mon: 9 am - 6 pm</h2>
+				  <h2 style="color:white;">Tues - Thurs: 9 am - 6 pm</h2>
+				  <h2 style="color:white;">Fri - Sat: 9 am - 9 pm</h2>
+				  <h2 style="color:white;">Sun: 10 am - 5 pm</h2>
+				  <br></br>
+				  <h2 style="color:white;">Address:</h2>
+				  <h2 style="color:white;">100 Oxford Terrace, Christchurch, NZ</h2>
+				  <h2 style="color:white;">Riverside Market</h2>
+				  <h2 style="color:purple;">www.riverside.nz</h2>
+				  <br></br>
+				  <h2 style="color:yellow;">Phone:</h2>
+				  <h2 style="color:white;">0225236280</h2>
+				  <br></br>
+				  <h2 style="color:yellow;">Email</h2>
+				  <h2 style="color:white;">info@elranchoriverside.co.nz</h2>
+			</div>
+			
+			
+			<div>
+		
+				
+				
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2892.504826650224!2d172.63164161527982!3d-43.53351767912561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d318b34da28785b%3A0xf2e53446da7fde9!2sEl%20Rancho%20%7C%20Riverside%20Taqueria!5e0!3m2!1sen!2snz!4v1624836432850!5m2!1sen!2snz" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe> 
+
+
+
+
+				
+				
+				
+				<form>
+					  <h2 style="color:Purple;"> Name</h2>
+					  <input type="text" id="fname" name="fname"><br>
+					  <h2 style="color:Purple;"> Phone</h2>
+					  <input type="text" id="fname" name="fname"><br>
+					  <h2 style="color:Purple;">Email</h2>
+					  <input type="text" id="fname" name="fname"><br>
+					  <h2 style="color:Purple;">Message</label></h2>
+					  <input type="text" id="fname" name="fname"><br>
+					  <input type="submit" value="Send" style="color:green;h1;">
+					  
+					  <br></br>
+					
+				</form>
+			</div>
+	
+        </section>
+        
+            
+                 
+                
+  
+        <footer>
+            <div class="footer-wrap">
+                <div>El Rancho</div>
+                <div>0225236280</div>
+                <div>www.riverside.nz</div>
+                <div>info@elranchoriverside.co.nz</div>
+            </div>
+        </footer>
+    </body>
+</html>
