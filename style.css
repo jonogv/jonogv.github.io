@@ -1,0 +1,142 @@
+/* Stylesheet for wire frame demo */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+	background-color: black;}
+	
+
+#next-video {
+	margin:auto;
+	display:block;
+	width:100%;
+	position:fixed;
+	z-index:-1;
+}
+	
+
+
+header {
+    
+    width: 1000px;
+    margin: 0 auto;
+}
+.tag-line {
+	width: 1000px;
+	color: white;
+	margin: 0 auto;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.tag-line p {
+	color: white;
+	
+	font-family: Modern Love Grunge, Times, serif;
+	font-size: 40px;
+	padding-top: 20px;
+	
+}
+.tag-line img {
+	width: 200px;
+	height: 138px;
+	margin-top: 60px;
+		
+}
+
+	/* logo */
+.logo {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.logo img {
+	height: 132px;
+	width: 199px;
+}
+/* navigation */
+nav {
+    
+    
+}
+nav ul {
+    height: 40px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+nav a {
+    text-decoration: none;
+    background-color: #FE3295;
+    padding: 10px 100px;
+	
+	color: #11B0D0;
+	font-weight: bold;
+	font-size: 20px;
+}
+nav a:hover {
+    background-color: #11B0D0;
+	color: #FE3295;
+}
+
+/* banner */
+.banner {
+    
+    overflow: hidden;
+}
+section {
+    border: 2px solid purple;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+section.home {
+	width:1000px;
+	justify-content: center;
+}
+.nachos{
+	position: absolute;
+	width:60px:
+	}
+
+
+.specials {
+    background-color: yellow;
+}
+.card {
+    border: 1px solid orange;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    background-color: lightblue;
+}
+.card img {
+    width: 100%;
+}
+ 
+.jono {
+    background-color: pink;
+}
+footer {
+ background-color:yellow;
+ 
+}
+.footer-wrap {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+	
+    justify-content: space-between;
+	
+}
+.center{
+margin-left:250px;}
+
+input[type=submit]{
+font-size:30px;}
